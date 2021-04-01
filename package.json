@@ -8,8 +8,8 @@
   },
   "private": true,
   "dependencies": {
-    "casper": "github:tryghost/Casper#3.1.2",
-    "ghost": "^3.41.6",
+    "casper": "github:tryghost/Casper#4.0.4",
+    "ghost": "^4.1.2",
     "ghost-storage-adapter-ipfs": "github:fission-suite/ghost-storage-adapter-ipfs",
     "mysql": "^2.18.1"
   },
